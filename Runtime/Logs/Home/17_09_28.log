@@ -1,0 +1,528 @@
+[ 2017-09-28T16:41:16+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/8.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:41:16+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:41:19+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/4.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:41:19+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:41:21+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/30.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:41:21+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:41:22+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:41:32+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/30.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:41:32+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:41:37+08:00 ] ::1 /shop/Home/User/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-28T16:41:41+08:00 ] ::1 /shop/Home/User/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-28T16:41:43+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:41:44+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:44:15+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/6.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:44:15+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:44:17+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/36.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:44:17+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:44:20+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:44:22+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/34.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:44:22+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:44:22+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:44:52+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/34.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:44:52+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:47:09+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:47:09+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:50:06+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:50:06+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:50:07+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:50:07+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:50:07+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:50:08+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:50:08+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:50:08+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:50:11+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:50:11+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:50:12+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:50:12+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:50:12+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:50:12+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:51:25+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:51:25+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:51:26+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:51:26+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:51:26+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:51:26+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:51:27+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:51:27+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:56:24+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:56:24+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:56:27+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:56:27+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:59:03+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:59:03+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T16:59:06+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T16:59:06+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:02:15+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:02:15+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:04:24+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:04:24+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:04:25+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:04:25+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:04:26+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:04:26+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:04:26+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:04:26+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:05:37+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/35.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:05:37+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:05:37+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:05:43+08:00 ] ::1 /shop/Home/User/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-28T17:05:50+08:00 ] ::1 /shop/Home/User/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-28T17:06:00+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/7.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:06:01+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:06:05+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/8.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:06:05+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:06:07+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:06:07+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:06:09+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/35.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:06:09+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:06:12+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:06:15+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:06:16+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:06:17+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:06:17+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:08:57+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:08:57+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:09:02+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/4.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:09:02+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:09:04+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/3.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:09:04+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:09:15+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/31.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:09:16+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:09:16+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:10:31+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:11:42+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:12:13+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:12:27+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:13:16+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:16:31+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:17:39+08:00 ] 127.0.0.1 /Home/User/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-28T17:18:29+08:00 ] 127.0.0.1 /Home/User/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-28T17:18:33+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:18:33+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:18:34+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/35.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:18:34+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:18:37+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:18:46+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:18:48+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/35.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:18:48+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:19:04+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:19:51+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:19:51+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:19:52+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:19:52+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:19:53+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/35.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:19:53+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:19:57+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:20:09+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/35.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:20:09+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:20:09+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:20:20+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:20:25+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:20:25+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:20:31+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/35.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:20:31+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:20:33+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:21:28+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:21:28+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:21:30+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/35.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:21:30+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:21:32+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/35.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:21:32+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:21:37+08:00 ] 127.0.0.1 /Home/User/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-28T17:21:41+08:00 ] 127.0.0.1 /Home/User/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-28T17:21:45+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/5.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:21:45+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:21:46+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/35.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:21:46+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:21:50+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:21:52+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:21:53+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/35.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:21:53+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:23:02+08:00 ] 127.0.0.1 /index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-28T17:23:04+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:23:09+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-28T17:23:12+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-28T17:23:15+08:00 ] 127.0.0.1 /index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+

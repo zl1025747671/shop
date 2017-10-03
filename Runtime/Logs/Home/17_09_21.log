@@ -1,0 +1,36 @@
+[ 2017-09-21T17:27:42+08:00 ] ::1 /shop/index.php/Home/cat/cat
+ERR: 无法加载控制器:Cat
+
+[ 2017-09-21T17:32:16+08:00 ] ::1 /shop/index.php/home/index/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-21T17:32:16+08:00 ] ::1 /shop/index.php/home/index/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-21T17:32:17+08:00 ] ::1 /shop/index.php/home/index/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-21T17:32:25+08:00 ] ::1 /shop/index.php/home/index/goods.php-id=19.htm
+ERR: 非法操作:goods.php-id=19.htm
+
+[ 2017-09-21T17:32:27+08:00 ] ::1 /shop/index.php/home/index/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-21T17:33:53+08:00 ] ::1 /shop/index.php/home/goods
+ERR: 非法操作:index
+
+[ 2017-09-21T17:34:01+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-21T17:34:01+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-21T21:23:54+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/2.html
+ERR: 无法加载控制器:Cat
+
+[ 2017-09-21T21:23:59+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/3.html
+ERR: 无法加载控制器:Cat
+
+[ 2017-09-21T21:34:10+08:00 ] ::1 /shop/index.php/
+ERR: XML标签语法错误 : condition=___nbsp;___nbsp;"$v.nbsp;lv eq 0"
+

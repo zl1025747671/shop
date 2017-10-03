@@ -1,0 +1,58 @@
+[ 2017-09-21T10:17:08+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `goods` SET `goods_sn`='2131',`cat_id`='7',`shop_price`='120',`goods_desc`='',`goods_weight`='5',`is_new`='0',`is_on_sale`='1',`goods_brief`='',`goods_id`='0' WHERE ( goods_id= )
+
+[ 2017-09-21T10:27:20+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `goods` SET `goods_sn`='1234',`cat_id`='0',`shop_price`='150',`goods_desc`='',`goods_weight`='5',`is_on_sale`='1',`goods_brief`='' WHERE ( goods_id= )
+
+[ 2017-09-21T10:28:19+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `goods` SET `goods_sn`='1234',`cat_id`='0',`shop_price`='150',`goods_desc`='',`goods_weight`='5',`is_on_sale`='1',`goods_brief`='' WHERE ( goods_id= )
+
+[ 2017-09-21T10:29:12+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `goods` SET `goods_sn`='1234',`cat_id`='0',`shop_price`='150',`goods_desc`='',`goods_weight`='5',`is_on_sale`='1',`goods_brief`='' WHERE ( goods_id= )
+
+[ 2017-09-21T10:30:13+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `goods` SET `goods_sn`='1234',`cat_id`='0',`shop_price`='150',`goods_desc`='',`goods_weight`='5',`is_on_sale`='1',`goods_brief`='' WHERE ( goods_id= )
+
+[ 2017-09-21T11:18:55+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 1406:Data too long for column 'goods_img' at row 1
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`goods_sn`,`cat_id`,`shop_price`,`goods_desc`,`goods_weight`,`goods_number`,`is_on_sale`,`goods_brief`,`goods_id`,`add_time`,`goods_img`) VALUES ('图片写入数据库','12313','0','77','','0','1','1','','0','1505963935','./Public/Upload/2017-09-21/59c32f9faf140.jpg')
+
+[ 2017-09-21T11:31:10+08:00 ] ::1 /shop/index.php/Admin/Goods/goodadd
+ERR: 非法操作:goodadd
+
+[ 2017-09-21T11:31:22+08:00 ] ::1 /shop/index.php/Admin/Goods/goodadd
+ERR: 非法操作:goodadd
+
+[ 2017-09-21T14:26:58+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 不存在的图像文件
+
+[ 2017-09-21T14:28:16+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 不存在的图像文件
+
+[ 2017-09-21T14:29:08+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 不存在的图像文件
+
+[ 2017-09-21T14:29:30+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 不存在的图像文件
+
+[ 2017-09-21T14:34:58+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 不存在的图像文件
+
+[ 2017-09-21T14:35:01+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 不存在的图像文件
+
+[ 2017-09-21T14:37:03+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 不存在的图像文件
+
+[ 2017-09-21T14:38:10+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 1406:Data too long for column 'goods_img' at row 1
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`goods_sn`,`cat_id`,`shop_price`,`goods_desc`,`goods_weight`,`goods_number`,`is_on_sale`,`goods_brief`,`goods_id`,`add_time`,`goods_img`) VALUES ('缩略图测试','123213','0','2322','','0','1','1','','0','1505975889','./Public/Upload/2017-09-21/59c35e51c424b.jpg')
+
+[ 2017-09-21T20:52:17+08:00 ] ::1 /shop/index.php/admin/catcatlist
+ERR: 无法加载控制器:Catcatlist
+

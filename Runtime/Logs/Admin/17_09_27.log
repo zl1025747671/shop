@@ -1,0 +1,223 @@
+[ 2017-09-27T10:53:14+08:00 ] ::1 /shop/admin/good/goodslist
+ERR: 无法加载控制器:Good
+
+[ 2017-09-27T10:53:30+08:00 ] ::1 /shop/index.php/admin/good/goodslist
+ERR: 无法加载控制器:Good
+
+[ 2017-09-27T11:27:59+08:00 ] ::1 /shop/index.php/admin/goods/list
+ERR: 非法操作:list
+
+[ 2017-09-27T12:04:03+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit.html
+ERR: 1054:Unknown column 'MAX_FILE_SIZE' in 'field list'
+ [ SQL语句 ] : UPDATE `goods` SET `MAX_FILE_SIZE`='2097152',`goods_name`='测试商品 ',`goods_sn`='1',`cat_id`='0',`shop_price`='5.00',`goods_desc`='',`goods_weight`='5.000',`weight_unit`='1',`is_on_sale`='1',`keywords`='',`goods_brief`='',`seller_note`='',`goods_id`='30',`act`='insert' WHERE ( goods_id=30 )
+
+[ 2017-09-27T12:05:57+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit.html
+ERR: 1054:Unknown column 'MAX_FILE_SIZE' in 'field list'
+ [ SQL语句 ] : UPDATE `goods` SET `MAX_FILE_SIZE`='2097152',`goods_name`='测试商品 ',`goods_sn`='1',`cat_id`='0',`shop_price`='5.00',`goods_desc`='',`goods_weight`='5.000',`weight_unit`='1',`is_on_sale`='1',`keywords`='',`goods_brief`='',`seller_note`='',`goods_id`='30',`act`='insert' WHERE ( goods_id=30 )
+
+[ 2017-09-27T12:09:12+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit.html
+ERR: 1054:Unknown column 'MAX_FILE_SIZE' in 'field list'
+ [ SQL语句 ] : UPDATE `goods` SET `MAX_FILE_SIZE`='2097152',`goods_name`='测试商品 ',`goods_sn`='1',`cat_id`='0',`shop_price`='5.00',`goods_desc`='',`goods_weight`='5.000',`weight_unit`='1',`is_on_sale`='1',`keywords`='',`goods_brief`='',`seller_note`='',`goods_id`='30',`act`='insert' WHERE ( goods_id=30 )
+
+[ 2017-09-27T12:13:10+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `goods` SET `MAX_FILE_SIZE`='2097152',`goods_name`='测试商品 ',`goods_sn`='1',`cat_id`='0',`shop_price`='5.00',`goods_desc`='',`goods_weight`='5.000',`weight_unit`='1',`is_on_sale`='1',`keywords`='',`goods_brief`='',`seller_note`='',`goods_id`='30',`act`='insert' WHERE ( goods_id= )
+
+[ 2017-09-27T12:14:16+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit.html
+ERR: 1054:Unknown column 'MAX_FILE_SIZE' in 'field list'
+ [ SQL语句 ] : UPDATE `goods` SET `MAX_FILE_SIZE`='2097152',`goods_name`='测试商品 ',`goods_sn`='1',`cat_id`='0',`shop_price`='5.00',`goods_desc`='',`goods_weight`='5.000',`weight_unit`='1',`is_on_sale`='1',`keywords`='',`goods_brief`='',`seller_note`='',`goods_id`='30',`act`='insert' WHERE ( goods_id=30 )
+
+[ 2017-09-27T12:18:16+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit.html
+ERR: 1054:Unknown column 'MAX_FILE_SIZE' in 'field list'
+ [ SQL语句 ] : UPDATE `goods` SET `MAX_FILE_SIZE`='2097152',`goods_name`='测试商品2',`goods_sn`='2',`cat_id`='0',`shop_price`='2',`goods_desc`='',`goods_weight`='5.000',`weight_unit`='1',`is_on_sale`='1',`keywords`='',`goods_brief`='',`seller_note`='',`goods_id`='31',`act`='insert' WHERE ( goods_id=31 )
+
+[ 2017-09-27T12:25:25+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit.html
+ERR: 1054:Unknown column 'MAX_FILE_SIZE' in 'field list'
+ [ SQL语句 ] : UPDATE `goods` SET `MAX_FILE_SIZE`='2097152',`goods_name`='手机3',`goods_sn`='3',`cat_id`='0',`shop_price`='160',`goods_desc`='',`goods_weight`='25.000',`weight_unit`='1',`is_on_sale`='1',`keywords`='',`goods_brief`='',`seller_note`='',`act`='insert' WHERE `goods_id` = '32'
+
+[ 2017-09-27T12:32:21+08:00 ] ::1 /shop/index.php/Admin/top.html
+ERR: 无法加载控制器:Top
+
+[ 2017-09-27T12:32:21+08:00 ] ::1 /shop/index.php/Admin/drag.html
+ERR: 无法加载控制器:Drag
+
+[ 2017-09-27T12:32:21+08:00 ] ::1 /shop/index.php/Admin/left.html
+ERR: 无法加载控制器:Left
+
+[ 2017-09-27T12:32:21+08:00 ] ::1 /shop/index.php/Admin/main.html
+ERR: 无法加载控制器:Main
+
+[ 2017-09-27T12:36:37+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 不存在的图像文件
+
+[ 2017-09-27T15:47:56+08:00 ] ::1 /shop/Admin/goods/goodslist
+ERR: 1052:Column 'cat_id' in where clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN cat as catname  WHERE ( goods.cat_id=cat_id ) 
+
+[ 2017-09-27T15:48:16+08:00 ] ::1 /shop/Admin/goods/goodslist
+ERR: 1054:Unknown column 'cat.cat_id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN cat as catname  WHERE ( goods.cat_id=cat.cat_id ) 
+
+[ 2017-09-27T15:48:30+08:00 ] ::1 /shop/Admin/goods/goodslist
+ERR: 1052:Column 'cat_id' in where clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN cat as catname  WHERE ( goods.cat_id=cat_id ) 
+
+[ 2017-09-27T15:49:47+08:00 ] ::1 /shop/Admin/goods/goodslist
+ERR: 1054:Unknown column 'cat.cat_id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN cat as catname  WHERE ( goods.cat_id=cat.cat_id ) 
+
+[ 2017-09-27T15:55:32+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'goods_cat_id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN cat  as  catname  on goods.cat_id = cat_cat_id  WHERE ( goods_cat_id  =  1 ) 
+
+[ 2017-09-27T15:55:56+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'goods_cat_id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN cat  as  catname  on cat_id = cat_cat_id  WHERE ( goods_cat_id  =  1 ) 
+
+[ 2017-09-27T16:00:34+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'cat_cat_id' in 'on clause'
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN cat  as  catname  on goods.cat_id = cat_cat_id  
+
+[ 2017-09-27T16:00:49+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'cat.cat_id' in 'on clause'
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN cat  as  catname  on goods.cat_id = cat.cat_id  
+
+[ 2017-09-27T16:00:49+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'cat.cat_id' in 'on clause'
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN cat  as  catname  on goods.cat_id = cat.cat_id  
+
+[ 2017-09-27T16:00:50+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'cat.cat_id' in 'on clause'
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN cat  as  catname  on goods.cat_id = cat.cat_id  
+
+[ 2017-09-27T16:00:51+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'cat.cat_id' in 'on clause'
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN cat  as  catname  on goods.cat_id = cat.cat_id  
+
+[ 2017-09-27T16:00:51+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'cat.cat_id' in 'on clause'
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN cat  as  catname  on goods.cat_id = cat.cat_id  
+
+[ 2017-09-27T16:02:10+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1052:Column 'cat_id' in on clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN cat  as  catname  on catname.cat_id = cat_id  
+
+[ 2017-09-27T16:06:02+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: Think\Controller:D方法不存在！
+
+[ 2017-09-27T16:06:21+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: Think\Controller:D方法不存在！
+
+[ 2017-09-27T16:11:08+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1052:Column 'cat_id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `cat_id`,`catname` FROM `goods` INNER JOIN cat  as  catname  on catname.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:11:35+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'catname' in 'field list'
+ [ SQL语句 ] : SELECT `catname` FROM `goods` INNER JOIN cat  as  catname  on catname.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:11:35+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'catname' in 'field list'
+ [ SQL语句 ] : SELECT `catname` FROM `goods` INNER JOIN cat  as  catname  on catname.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:12:02+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'catname' in 'field list'
+ [ SQL语句 ] : SELECT `catname` FROM `goods` INNER JOIN cat  as  catname  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:12:15+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'catname' in 'field list'
+ [ SQL语句 ] : SELECT `catname` FROM `goods` INNER JOIN cat  as  cat_name  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:12:16+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'catname' in 'field list'
+ [ SQL语句 ] : SELECT `catname` FROM `goods` INNER JOIN cat  as  cat_name  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:12:16+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'catname' in 'field list'
+ [ SQL语句 ] : SELECT `catname` FROM `goods` INNER JOIN cat  as  cat_name  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:12:17+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'catname' in 'field list'
+ [ SQL语句 ] : SELECT `catname` FROM `goods` INNER JOIN cat  as  cat_name  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:12:17+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'catname' in 'field list'
+ [ SQL语句 ] : SELECT `catname` FROM `goods` INNER JOIN cat  as  cat_name  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:12:17+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'catname' in 'field list'
+ [ SQL语句 ] : SELECT `catname` FROM `goods` INNER JOIN cat  as  cat_name  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:12:37+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'catname' in 'field list'
+ [ SQL语句 ] : SELECT `catname` FROM `goods` INNER JOIN cat  as  catname  on catname.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:14:38+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1052:Column 'cat_id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `cat_name`,`cat_id` FROM `goods` INNER JOIN cat  as  catname  on catname.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:15:03+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1052:Column 'cat_id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `cat_name`,`cat_id` FROM `goods` INNER JOIN cat  as  cat_name  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:15:04+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1052:Column 'cat_id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `cat_name`,`cat_id` FROM `goods` INNER JOIN cat  as  cat_name  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:16:48+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1052:Column 'cat_id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `cat_name`,`cat_id`,`goods_id` FROM `goods` INNER JOIN cat  as  cat_name  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:17:39+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1052:Column 'cat_id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `cat_name`,`cat_id` FROM `goods` INNER JOIN cat  as  cat_name  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:19:35+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1052:Column 'cat_id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `cat_name`,`cat_id` FROM `goods` INNER JOIN cat  as  cat_name  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:20:03+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'cat.cat_id' in 'field list'
+ [ SQL语句 ] : SELECT `cat_name`,cat.cat_id FROM `goods` INNER JOIN cat  as  cat_name  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:20:04+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'cat.cat_id' in 'field list'
+ [ SQL语句 ] : SELECT `cat_name`,cat.cat_id FROM `goods` INNER JOIN cat  as  cat_name  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T16:20:05+08:00 ] ::1 /shop/index.php/admin/goods/goodsedit/goods_id/30.html
+ERR: 1054:Unknown column 'cat.cat_id' in 'field list'
+ [ SQL语句 ] : SELECT `cat_name`,cat.cat_id FROM `goods` INNER JOIN cat  as  cat_name  on cat_name.cat_id = goods.cat_id  
+
+[ 2017-09-27T19:20:04+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+ERR: 不存在的图像文件
+
+[ 2017-09-27T19:20:13+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+ERR: 不存在的图像文件
+
+[ 2017-09-27T19:44:57+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+ERR: 不存在的图像文件
+
+[ 2017-09-27T20:11:40+08:00 ] 127.0.0.1 /index.php/Admin/top.html
+ERR: 无法加载控制器:Top
+
+[ 2017-09-27T20:11:40+08:00 ] 127.0.0.1 /index.php/Admin/left.html
+ERR: 无法加载控制器:Left
+
+[ 2017-09-27T20:11:40+08:00 ] 127.0.0.1 /index.php/Admin/main.html
+ERR: 无法加载控制器:Main
+
+[ 2017-09-27T20:11:40+08:00 ] 127.0.0.1 /index.php/Admin/drag.html
+ERR: 无法加载控制器:Drag
+
+[ 2017-09-27T20:38:02+08:00 ] 127.0.0.1 /index.php/Admin/index/goodslist.html
+ERR: 非法操作:goodslist
+
+[ 2017-09-27T20:40:25+08:00 ] 127.0.0.1 /index.php/Admin/index/catelist.html
+ERR: 非法操作:catelist
+
+[ 2017-09-27T20:42:00+08:00 ] 127.0.0.1 /index.php/Admin/index/goodsadd.html
+ERR: 非法操作:goodsadd
+
+[ 2017-09-27T20:47:12+08:00 ] 127.0.0.1 /index.php/Admin/Admin/index.html
+ERR: 无法加载控制器:Admin
+

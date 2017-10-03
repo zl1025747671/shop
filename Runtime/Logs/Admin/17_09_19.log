@@ -1,0 +1,170 @@
+[ 2017-09-19T11:18:41+08:00 ] ::1 /shop/index.php/admin/cate/catelist
+ERR: 无法加载控制器:Cate
+
+[ 2017-09-19T11:20:31+08:00 ] ::1 /shop/index.php/admin/cate/cateadd
+ERR: 无法加载控制器:Cate
+
+[ 2017-09-19T11:21:19+08:00 ] ::1 /shop/index.php/admin/cate/cateadd
+ERR: 无法加载控制器:Cate
+
+[ 2017-09-19T11:21:20+08:00 ] ::1 /shop/index.php/admin/cate/cateadd
+ERR: 无法加载控制器:Cate
+
+[ 2017-09-19T11:21:20+08:00 ] ::1 /shop/index.php/admin/cate/cateadd
+ERR: 无法加载控制器:Cate
+
+[ 2017-09-19T11:21:20+08:00 ] ::1 /shop/index.php/admin/cate/cateadd
+ERR: 无法加载控制器:Cate
+
+[ 2017-09-19T11:21:20+08:00 ] ::1 /shop/index.php/admin/cate/cateadd
+ERR: 无法加载控制器:Cate
+
+[ 2017-09-19T11:21:20+08:00 ] ::1 /shop/index.php/admin/cate/cateadd
+ERR: 无法加载控制器:Cate
+
+[ 2017-09-19T11:22:11+08:00 ] ::1 /shop/index.php/admin/view/admin/styles/general.css
+ERR: 无法加载控制器:View
+
+[ 2017-09-19T11:22:11+08:00 ] ::1 /shop/index.php/admin/view/admin/styles/main.css
+ERR: 无法加载控制器:View
+
+[ 2017-09-19T11:29:04+08:00 ] ::1 /shop/index.php/admin/cate/edit
+ERR: 非法操作:edit
+
+[ 2017-09-19T11:29:12+08:00 ] ::1 /shop/index.php/admin/cate/cateedit
+ERR: 模板不存在:C:\wamp64\www\shop/Admin/View/Cate/cateedit.html
+
+[ 2017-09-19T11:30:42+08:00 ] ::1 /shop/index.php/admin/cate/catedit
+ERR: 无法加载控制器:Cate
+
+[ 2017-09-19T11:31:08+08:00 ] ::1 /shop/index.php/admin/cate/catadd
+ERR: 无法加载控制器:Cate
+
+[ 2017-09-19T11:35:31+08:00 ] ::1 /shop/index.php/admin/cat/cateadd.php
+ERR: 非法操作:cateadd.php
+
+[ 2017-09-19T13:57:54+08:00 ] ::1 /shop/index.php/admin/cat/cateaddAct.php
+ERR: 非法操作:cateaddact.php
+
+[ 2017-09-19T14:09:36+08:00 ] ::1 /shop/index.php/admin/goods/goods.php?act=list
+ERR: 非法操作:goods.php
+
+[ 2017-09-19T14:23:46+08:00 ] ::1 /shop/index.php/admin/cat/
+ERR: 非法操作:index
+
+[ 2017-09-19T15:08:03+08:00 ] ::1 /shop/index.php/admin/cat/cateaddAct.php
+ERR: 非法操作:cateaddact.php
+
+[ 2017-09-19T15:10:07+08:00 ] ::1 /shop/index.php/admin/cat/cateaddAct.php
+ERR: 非法操作:cateaddact.php
+
+[ 2017-09-19T17:59:14+08:00 ] ::1 /shop/index.php/admin/cat/catedit/cat_id/1.html
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T17:59:15+08:00 ] ::1 /shop/index.php/admin/cat/catedit/cat_id/1.html
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T17:59:20+08:00 ] ::1 /shop/index.php/admin/cat/catedit/cat_id/1.html
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:00:11+08:00 ] ::1 /shop/index.php/admin/cat/catedit/cat_id/1.html
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:01:29+08:00 ] ::1 /shop/index.php/admin/cat/catedit/cat_id/1.html
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:04:06+08:00 ] ::1 /shop/index.php/admin/cat/catedit/cat_id/1.html
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:04:08+08:00 ] ::1 /shop/index.php/admin/cat/catlist
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:04:09+08:00 ] ::1 /shop/index.php/admin/cat/catlist
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:06:30+08:00 ] ::1 /shop/index.php/admin/cat/catlist
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:06:35+08:00 ] ::1 /shop/index.php/admin/cat/add
+ERR: 非法操作:add
+
+[ 2017-09-19T18:06:38+08:00 ] ::1 /shop/index.php/admin/cat/add
+ERR: 非法操作:add
+
+[ 2017-09-19T18:06:52+08:00 ] ::1 /shop/index.php/admin/cat/catlist
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:07:10+08:00 ] ::1 /shop/index.php/admin/cat/catedit
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:08:24+08:00 ] ::1 /shop/index.php/admin/cat/catlist
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:08:25+08:00 ] ::1 /shop/index.php/admin/cat/catlist
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:08:25+08:00 ] ::1 /shop/index.php/admin/cat/catlist
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:08:25+08:00 ] ::1 /shop/index.php/admin/cat/catlist
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:08:25+08:00 ] ::1 /shop/index.php/admin/cat/catlist
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:10:14+08:00 ] ::1 /shop/index.php/admin/cat/catlist
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:10:15+08:00 ] ::1 /shop/index.php/admin/cat/catlist
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:10:15+08:00 ] ::1 /shop/index.php/admin/cat/catlist
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T18:10:34+08:00 ] ::1 /shop/index.php/admin/cat/catedit/cat_id/1.html
+ERR: Think\Model:gettree方法不存在！
+
+[ 2017-09-19T19:05:21+08:00 ] ::1 /shop/index.php/admin/cat/catdel/cat_id/1.html
+ERR: 非法操作:catdel
+
+[ 2017-09-19T19:05:37+08:00 ] ::1 /shop/index.php/admin/cat/catdel/cat_id/1.html
+ERR: 非法操作:catdel
+
+[ 2017-09-19T19:16:04+08:00 ] ::1 /shop/index.php/admin/cat/cateadd.php
+ERR: 非法操作:cateadd.php
+
+[ 2017-09-19T20:40:21+08:00 ] ::1 /shop/index.php/admin/goods/goodadd
+ERR: 非法操作:goodadd
+
+[ 2017-09-19T21:04:20+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 1366:Incorrect decimal value: '2元' for column 'shop_price' at row 1
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`goods_sn`,`cat_id`,`shop_price`,`goods_desc`,`goods_weight`,`goods_number`,`is_on_sale`,`goods_brief`,`goods_id`) VALUES ('老阿姨','1','7','2元','','','1','1','','0')
+
+[ 2017-09-19T21:04:41+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 1366:Incorrect decimal value: '2元' for column 'shop_price' at row 1
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`goods_sn`,`cat_id`,`shop_price`,`goods_desc`,`goods_weight`,`goods_number`,`is_on_sale`,`goods_brief`,`goods_id`) VALUES ('老阿姨','1','7','2元','','','1','1','','0')
+
+[ 2017-09-19T21:09:12+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 1366:Incorrect decimal value: '2元' for column 'shop_price' at row 1
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`goods_sn`,`cat_id`,`shop_price`,`goods_desc`,`goods_weight`,`goods_number`,`is_on_sale`,`goods_brief`,`goods_id`) VALUES ('老阿姨','1','6','2元','','','1','1','','0')
+
+[ 2017-09-19T21:09:15+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 1366:Incorrect decimal value: '2元' for column 'shop_price' at row 1
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`goods_sn`,`cat_id`,`shop_price`,`goods_desc`,`goods_weight`,`goods_number`,`is_on_sale`,`goods_brief`,`goods_id`) VALUES ('老阿姨','1','6','2元','','','1','1','','0')
+
+[ 2017-09-19T21:14:53+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 1366:Incorrect decimal value: '' for column 'goods_weight' at row 1
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`goods_sn`,`cat_id`,`shop_price`,`goods_desc`,`goods_weight`,`goods_number`,`is_on_sale`,`goods_brief`,`goods_id`) VALUES ('詹立','1','11','2','','','1','1','','0')
+
+[ 2017-09-19T21:17:46+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 1366:Incorrect decimal value: '' for column 'goods_weight' at row 1
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`goods_sn`,`cat_id`,`shop_price`,`goods_desc`,`goods_weight`,`goods_number`,`is_on_sale`,`goods_brief`,`goods_id`) VALUES ('1','1','0','01','','','1','1','','0')
+
+[ 2017-09-19T21:20:11+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 1366:Incorrect decimal value: '' for column 'goods_weight' at row 1
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`goods_sn`,`cat_id`,`shop_price`,`goods_desc`,`goods_weight`,`goods_number`,`is_on_sale`,`goods_brief`,`goods_id`) VALUES ('1','1','0','01','','','1','1','','0')
+
+[ 2017-09-19T21:21:45+08:00 ] ::1 /shop/index.php/admin/goods/goodsadd.html
+ERR: 1366:Incorrect decimal value: '' for column 'goods_weight' at row 1
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`goods_sn`,`cat_id`,`shop_price`,`goods_desc`,`goods_weight`,`goods_number`,`is_on_sale`,`goods_brief`,`goods_id`) VALUES ('1','1','0','01','','','1','1','','0')
+

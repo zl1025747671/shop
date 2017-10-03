@@ -1,0 +1,1391 @@
+[ 2017-09-25T12:20:03+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/2.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:20:03+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T12:20:05+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:20:05+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:20:05+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:20:07+08:00 ] ::1 /shop/index.php/Home/goods/gwc/goods_id/19.html
+ERR: 非法操作:gwc
+
+[ 2017-09-25T12:20:13+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:20:13+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:35:52+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:35:52+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:36:00+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:51:53+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:51:53+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:51:55+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:51:55+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:51:56+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:51:56+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:51:58+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:51:58+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:51:59+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:51:59+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:52:03+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:52:03+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:52:03+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:52:04+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:52:04+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:14+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:14+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:17+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:17+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:18+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T12:53:19+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/14.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:19+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:19+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:27+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:27+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:28+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T12:53:29+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/13.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:30+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:30+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:54+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:54+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:56+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:53:56+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:55:17+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:55:17+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:55:20+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:55:20+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:55:21+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T12:55:21+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:32+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:32+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:42+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:42+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:45+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:45+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:46+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:46+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:47+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:47+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:48+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:48+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:49+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:49+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:50+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:18:51+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/14.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:51+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:51+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:56+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:56+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:57+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:18:58+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/13.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:18:58+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:19:01+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:19:01+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:19:02+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:19:03+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:19:03+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:19:03+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:19:06+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:19:06+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:19:28+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:19:28+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:20:52+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:20:52+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:20:55+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:20:55+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:20:56+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:20:57+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:20:57+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:20:57+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:21:00+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:21:01+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:21:01+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:21:02+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/13.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:21:02+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:21:02+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:21:06+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:21:06+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:21:08+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:21:08+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:21:08+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:21:09+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/14.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:21:09+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:21:10+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:21:12+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:21:12+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:23:21+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:23:22+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:23:35+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:23:35+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:23:38+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:23:38+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:26:45+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:26:46+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:26:54+08:00 ] ::1 /shop/index.php/Home/api/cron.php-t=1452023217
+ERR: 无法加载控制器:Api
+
+[ 2017-09-25T13:26:54+08:00 ] ::1 /shop/index.php/Home/api/cron.php-t=1452023217
+ERR: 无法加载控制器:Api
+
+[ 2017-09-25T13:26:56+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/2.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:26:56+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:26:59+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/13.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:26:59+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:26:59+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:27:05+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:27:05+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:27:06+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:27:07+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/14.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:27:07+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:27:08+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:27:12+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:27:12+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:27:12+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:27:14+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:27:14+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:27:14+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:27:18+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:27:18+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:29:13+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:29:13+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:29:16+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:29:16+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:29:17+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:29:18+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/14.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:29:18+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:29:18+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:29:21+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:29:21+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:01+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:01+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:10+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:10+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:14+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:30:15+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:15+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:16+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:20+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:21+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:24+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:24+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:24+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:30:25+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/13.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:25+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:26+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:30+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:30+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:30+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:30:32+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/13.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:32+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:30:32+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:39:10+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:39:11+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:39:16+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:39:16+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:40:10+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:40:10+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:42:18+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T13:44:28+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T13:45:48+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:45:48+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:45:51+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:45:51+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:45:52+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:45:53+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:45:53+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:45:53+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:45:54+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:45:55+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/13.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:45:55+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:45:56+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:45:57+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:45:57+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:45:58+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:45:59+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:45:59+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:45:59+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:46:02+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:46:02+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:46:03+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:46:05+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/14.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:46:05+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:46:05+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:46:07+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:46:07+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T13:46:07+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T13:46:08+08:00 ] ::1 /shop/index.php/Home/api/cron.php-t=1452023217
+ERR: 无法加载控制器:Api
+
+[ 2017-09-25T13:46:09+08:00 ] ::1 /shop/index.php/Home/api/cron.php-t=1452023217
+ERR: 无法加载控制器:Api
+
+[ 2017-09-25T13:46:19+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T13:50:43+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T13:52:12+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T17:13:59+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T17:14:17+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T17:14:18+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T17:14:21+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T17:14:23+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T17:17:43+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T17:17:50+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T17:18:18+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T17:18:24+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:29:45+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:29:46+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:29:49+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:30:00+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:30:02+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:30:03+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:30:08+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:30:11+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:30:31+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:30:32+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:31:06+08:00 ] ::1 /shop/index.php/Home/goods
+ERR: 非法操作:index
+
+[ 2017-09-25T18:31:15+08:00 ] ::1 /shop/index.php/Home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T18:31:15+08:00 ] ::1 /shop/index.php/Home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:31:15+08:00 ] ::1 /shop/index.php/Home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:31:26+08:00 ] ::1 /shop/index.php/Home/goods
+ERR: 非法操作:index
+
+[ 2017-09-25T18:31:27+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:31:49+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:37:01+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:37:04+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:37:06+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:37:07+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:38:02+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:38:13+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:38:17+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:38:19+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:38:33+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:41:31+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:41:33+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:41:36+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:41:37+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:42:49+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:42:51+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:42:53+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:45:43+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:45:46+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:45:48+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:45:50+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:46:54+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:46:55+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:46:56+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:47:13+08:00 ] ::1 /shop/index.php/Home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T18:47:14+08:00 ] ::1 /shop/index.php/Home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:47:14+08:00 ] ::1 /shop/index.php/Home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:51:21+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:51:23+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:51:47+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:51:49+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:53:43+08:00 ] ::1 /shop/index.php/home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T18:53:43+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:53:43+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:53:58+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:54:50+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:55:12+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:55:15+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:57:38+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:57:44+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:57:50+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:57:53+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:57:55+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:57:56+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:58:08+08:00 ] ::1 /shop/index.php/Home/user/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:58:12+08:00 ] ::1 /shop/index.php/Home/user/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:58:18+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/2.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T18:58:18+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T18:58:20+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T18:58:20+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T18:58:20+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T18:58:24+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T18:58:24+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T18:58:27+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T18:58:29+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/13.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T18:58:29+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T18:58:29+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T18:58:31+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T18:58:31+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T18:58:49+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T18:58:55+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:04:05+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:05:34+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:05:39+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:05:43+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:05:46+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:05:53+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:11:30+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:12:41+08:00 ] ::1 /shop/index.php/Home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:12:43+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:13:00+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:18:11+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:19:54+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:19:56+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:21:44+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:22:08+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:26:36+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:28:20+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:28:44+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:28:48+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:28:59+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:32:59+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:33:33+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:37:18+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:40:40+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:45:23+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:46:08+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:47:27+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:48:12+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:48:15+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:48:24+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:48:29+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:48:59+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:49:05+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:49:17+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:50:04+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:50:23+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:50:44+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:50:47+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:50:55+08:00 ] ::1 /shop/index.php/Home/Order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:59:13+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:59:19+08:00 ] ::1 /shop/index.php/home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T19:59:19+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:59:19+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:59:55+08:00 ] ::1 /shop/index.php/home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T19:59:55+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T19:59:55+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:00:24+08:00 ] ::1 /shop/index.php/home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:00:24+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:00:24+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:01:05+08:00 ] ::1 /shop/index.php/home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:01:06+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:01:06+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:01:41+08:00 ] ::1 /shop/index.php/home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:01:41+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:01:41+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:02:44+08:00 ] ::1 /shop/index.php/home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:02:44+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:02:44+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:02:58+08:00 ] ::1 /shop/index.php/home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:02:58+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:02:58+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:03:03+08:00 ] ::1 /shop/index.php/home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:03:03+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:03:03+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:03:09+08:00 ] ::1 /shop/index.php/home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:03:09+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:03:09+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:03:16+08:00 ] ::1 /shop/index.php/home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:03:16+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:03:16+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:03:16+08:00 ] ::1 /shop/index.php/home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:03:17+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:03:17+08:00 ] ::1 /shop/index.php/home/goods/goods
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:03:17+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:03:17+08:00 ] ::1 /shop/index.php/home/goods/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:03:18+08:00 ] ::1 /shop/index.php/home/order/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-09-25T20:03:29+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/2.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:03:29+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T20:03:31+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:03:31+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:04:32+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:04:32+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:04:32+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:12:45+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:12:45+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:13:22+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:13:23+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:28:40+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:28:40+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:28:40+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:30:09+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:30:09+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:30:16+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:30:16+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:30:30+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:30:31+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:30:31+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:30:33+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:30:33+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:31:23+08:00 ] ::1 /shop/index.php/Home/goods/comment.html
+ERR: Think\Controller:succes方法不存在！
+
+[ 2017-09-25T20:31:39+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:37:36+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:39:13+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:39:14+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:39:14+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:39:14+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:39:15+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:39:15+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:39:15+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:43:08+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:45:56+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:45:57+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:45:57+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:45:57+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:45:57+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:46:44+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:46:45+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:47:02+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:47:02+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:47:03+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:47:03+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:47:03+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:47:03+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:49:42+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:49:49+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:49:58+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:52:34+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:52:34+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:52:34+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:52:34+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:52:34+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:52:35+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:54:11+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:55:08+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:55:19+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/2.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:55:19+08:00 ] ::1 /shop/index.php/Home/cat/cat/cat_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` WHERE ( cat_id=api ) LIMIT 1  
+
+[ 2017-09-25T20:55:21+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:55:21+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:56:07+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:56:07+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:56:07+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:56:25+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:56:49+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:57:09+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:57:29+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:58:02+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:58:05+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:58:05+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:58:11+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:58:13+08:00 ] ::1 /shop/index.php/Home/goods/,
+ERR: 非法操作:,
+
+[ 2017-09-25T20:58:15+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:58:52+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/19.html
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+
+[ 2017-09-25T20:58:52+08:00 ] ::1 /shop/index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+NOTIC: D方法实例化没找到模型类Amind\Model\CatModel
+

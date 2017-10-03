@@ -1,0 +1,12 @@
+[ 2017-09-26T20:38:28+08:00 ] ::1 /shop/index.php/admin/cat/cateedit/cat_id/1.html
+ERR: 非法操作:cateedit
+
+[ 2017-09-26T20:40:54+08:00 ] ::1 /shop/index.php/admin/cat/cateedit/cat_id/1.html
+ERR: 非法操作:cateedit
+
+[ 2017-09-26T20:46:01+08:00 ] ::1 /shop/index.php/Admin/Cat/cateadd.html
+ERR: 非法操作:cateadd
+
+[ 2017-09-26T21:23:46+08:00 ] ::1 /shop/index.php/admin/goods/list
+ERR: 非法操作:list
+

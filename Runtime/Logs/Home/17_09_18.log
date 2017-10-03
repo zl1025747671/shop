@@ -1,0 +1,27 @@
+[ 2017-09-18T15:16:15+08:00 ] ::1 /shop/index.php/home/user/
+ERR: 非法操作:index
+
+[ 2017-09-18T15:56:24+08:00 ] ::1 /shop/index.php/home/user/kk
+ERR: 非法操作:kk
+
+[ 2017-09-18T15:57:07+08:00 ] ::1 /shop/index.php/home/user/kk
+ERR: 非法操作:kk
+
+[ 2017-09-18T16:03:22+08:00 ] ::1 /shop/index.php/home/user/kk
+ERR: 非法操作:kk
+
+[ 2017-09-18T16:03:31+08:00 ] ::1 /shop/index.php/home/user/kk
+ERR: 非法操作:kk
+
+[ 2017-09-18T16:04:49+08:00 ] ::1 /shop/index.php/home/user/kk
+ERR: 非法操作:kk
+
+[ 2017-09-18T16:04:55+08:00 ] ::1 /shop/index.php/home/user/kk
+ERR: 非法操作:kk
+
+[ 2017-09-18T18:54:14+08:00 ] ::1 /shop/index.php/home/user/us
+ERR: 非法操作:us
+
+[ 2017-09-18T19:04:42+08:00 ] ::1 /shop/index.php/home/user/
+ERR: 非法操作:index
+
